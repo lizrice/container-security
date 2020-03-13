@@ -2,5 +2,5 @@
 
 Coming soon!
 
-<img width=400 src="cover.png">
+![Cover image](cover.png)
 
