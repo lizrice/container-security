@@ -1,6 +1,6 @@
 ## Container Security
 
-Coming soon!
+[Order now on Amazon](https://amzn.to/2Rj2on3)
 
 ![Cover image](cover.png)
 
