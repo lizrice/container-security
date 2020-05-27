@@ -1,7 +1,7 @@
 # Container Security
 
 * [Read on O'Reilly](https://learning.oreilly.com/library/view/container-security/9781492056690/)
-* Download from [Aqua Security](https://info.aquasec.com/container-security-book)
+* Download a free electronic copy from [Aqua Security](https://info.aquasec.com/container-security-book)
 * Support your favourite bookshop by ordering through them, using ISBN 9781492056706 
 * [Buy from Amazon](https://amzn.to/2Rj2on3)
 
