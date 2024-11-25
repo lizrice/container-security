@@ -4,7 +4,6 @@
 * Support independent bookshops by ordering from [Bookshop.org](https://uk.bookshop.org/a/4184/9781492056706)
 * Or order from your local bookshop using ISBN 9781492056706 
 * [Buy from Amazon](https://amzn.to/2Rj2on3)
-* Download a free electronic copy from [Aqua Security](https://info.aquasec.com/container-security-book)
 
 ## Table of Contents
 
