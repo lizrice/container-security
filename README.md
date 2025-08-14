@@ -9,7 +9,7 @@
 
 1. Container Security Threats
 1. [Linux System Calls, Permissions and Capabilities](chapter2/README.md)
-1. Control Groups
+1. [Control Groups](chapter3/README.md)
 1. Container Isolation
 1. Virtual Machines
 1. Container Images

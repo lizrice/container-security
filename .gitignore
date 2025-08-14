@@ -9,3 +9,5 @@ chapter6/sensitive/**
 chapter9/alpine-bundle/**
 chapter9/alpine/**
 chapter9/oras/**
+chapter2/mysleep
+chapter2/setuid/setuid-sh
