@@ -122,3 +122,12 @@ docker run --pids-limit 20 --name forkbomb -it ubuntu
 ```
 
 Run the fork bomb inside this container. You can stop it from another terminal with `docker stop forkbomb`
+
+## References
+
+- p. 27 - [Wikipedia: Resource exhaustion attack](https://en.wikipedia.org/wiki/Resource_exhaustion_attack)
+- p. 30 — [Kubernetes docs: Managing resources for containers](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)  
+- p. 30 — [Liz Rice — What Have Namespaces Done For You Lately](https://www.youtube.com/watch?v=MHv6cWjvQjM&ab_channel=Docker)  
+- p. 31 — [Kubernetes docs: Process ID (PID) limiting](https://kubernetes.io/docs/concepts/policy/pid-limiting/)  
+
+[Back to index](../README.md)

@@ -1,0 +1,33 @@
+# Supply Chain Security
+
+## References
+
+- p. 87 — [OpenSSF](https://openssf.org/)  
+- p. 87 — [SLSA: Getting started](https://slsa.dev/how-to/get-started)  
+- p. 88 — [We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs (Spracklen et al)](https://arxiv.org/abs/2406.10279)  
+- p. 88 — [xkcd 353: Python](https://xkcd.com/353/)  
+- p. 89 — [CycloneDX](https://github.com/CycloneDX)  
+- p. 89 — [OpenSSF WG: Securing software repositories](https://github.com/ossf/wg-securing-software-repos)  
+- p. 90 - [Distroless](https://github.com/GoogleContainerTools/distroless)
+- p. 90 - [AWS Amazon Linux 2023 Minimal image](https://docs.aws.amazon.com/linux/al2023/ug/minimal-container.html)
+- p. 90 — [Microsoft Azure Linux Distroless minimal image](https://mcr.microsoft.com/en-us/artifact/mar/azurelinux/distroless/minimal/about)  
+- p. 90 — [Canonical Chisel](https://github.com/canonical/chisel)  
+- p. 90 — [Slim Toolkit](https://slimtoolkit.org/)  
+- p. 91 — [Docker multi-stage builds](https://docs.docker.com/build/building/multi-stage/)  
+- p. 92 — [Capital One multi-stage build examples](https://medium.com/capital-one-tech/multi-stage-builds-and-dockerfile-b5866d9e2f84)  
+- p. 94 — [GitHub Actions and CodeBuild integration](https://garbe.io/blog/2025/07/28/github-actions-codebuild/)  
+- p. 95 — [Syft](https://github.com/anchore/syft)  
+- p. 95 — [Trivy](https://trivy.dev/)  
+- p. 96 — [Notary Project](http://github.com/notaryproject)  
+- p. 96 — [Notary Notation](https://github.com/notaryproject/notation)  
+- p. 96 — [Sigstore](https://www.sigstore.dev/)  
+- p. 97 — [SLSA GitHub generator (Go)](https://github.com/slsa-framework/slsa-github-generator-go)  
+- p. 97 — [in-toto](https://in-toto.io/)  
+- p. 98 — [ORAS](https://oras.land/)  
+- p. 98 — [ttl.sh ephemeral registry](http://ttl.sh)  
+- p. 102 — [NIST: Executive Order 14028 on Improving the Nation’s Cybersecurity](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)  
+- p. 103 — [SLSA Verifier](https://github.com/slsa-framework/slsa-verifier)  
+- p. 103 — [Kyverno](https://kyverno.io/)  
+- p. 103 — [Gatekeeper (OPA project)](https://open-policy-agent.github.io/gatekeeper/website/docs/)  
+
+[Back to index](../README.md)

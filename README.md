@@ -7,22 +7,22 @@
 
 ## Table of Contents
 
-1. Container Security Threats
+1. [Container Security Threats](chapter1/README.md)
 1. [Linux System Calls, Permissions and Capabilities](chapter2/README.md)
 1. [Control Groups](chapter3/README.md)
-1. Container Isolation
-1. Virtual Machines
-1. Container Images
-1. Supply Chain Security
-1. Software Vulnerabilities in Images
-1. Infrastructure as Code and GitOps
-1. Strengthening Container Isolation
-1. Breaking Container Isolation
-1. Container Network Security
-1. Securely Connecting Components
-1. Passing Secrets to Containers
-1. Container Runtime Protection
-1. Containers and the OWASP Top 10
+1. [Container Isolation](chapter4/README.md)
+1. [Virtual Machines](chapter5/README.md)
+1. [Container Images](chapter6/README.md)
+1. [Supply Chain Security](chapter7/README.md)
+1. [Software Vulnerabilities in Images](chapter8/README.md)
+1. [Infrastructure as Code and GitOps](chapter9/README.md)
+1. [Strengthening Container Isolation](chapter10/README.md)
+1. [Breaking Container Isolation](chapter11/README.md)
+1. [Container Network Security](chapter12/README.md)
+1. [Securely Connecting Components](chapter13/README.md)
+1. [Passing Secrets to Containers](chapter14/README.md)
+1. [Container Runtime Protection](chapter15/README.md)
+1. [Containers and the OWASP Top 10](chapter16/README.md)
 
 ## Code examples
 
@@ -33,6 +33,10 @@ limactl start --name=ubuntu24-04 lima.yaml
 ```
 
 By default Lima now installs Docker in rootless mode, but for demonstration purposes I have left it in the traditional rootful mode.
+
+## References
+
+If you have the print edition of the book, URLs are tedious to type in, so I have included links under a References section for each chapter. 
 
 ## Suggestions, corrections and feedback
 

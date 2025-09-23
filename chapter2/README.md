@@ -65,4 +65,16 @@ getpcaps $(pgrep journal)
 getpcaps $$
 ```
 
+## References
+
+ - p. 16 — [A beginner’s guide to syscalls — Liz Rice (O’Reilly, OSCON 2017 video)](https://www.oreilly.com/videos/oscon-2017/9781491976227/9781491976227-video306637/)
+- p. 16 — [Wikipedia: “Everything is a file”](https://en.wikipedia.org/wiki/Everything_is_a_file)
+- p. 17 — [Linux Journal: Mastering Linux File Permissions and Ownership](https://www.linuxjournal.com/content/mastering-linux-file-permissions-and-ownership)
+- p. 21 — [Root your Docker host in 10 seconds for fun and profit (Electricmonk.nl)](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/)
+- p. 21 — [setuid example](./setuid/README.md)
+- p. 23 — [Adrian Mouat: Why Linux Capabilities Exist and How They Work](https://adrianmouat.com/posts/linux-capabilities-why-they-exist-and-how-they-work/)
+- p. 23 — [CERT-EU Security Advisory 2018-022: Apache Struts](https://cert.europa.eu/static/SecurityAdvisories/2018/CERT-EU-SA2018-022.pdf)
+- p. 23 — [BleepingComputer: Critical Apache Struts RCE vulnerability wasn’t fully fixed, patch now](https://www.bleepingcomputer.com/news/security/critical-apache-struts-rce-vulnerability-wasnt-fully-fixed-patch-now/)
+- p. 23 — [BleepingComputer: New critical Apache Struts flaw exploited to find vulnerable servers](https://www.bleepingcomputer.com/news/security/new-critical-apache-struts-flaw-exploited-to-find-vulnerable-servers/)
+
 [Back to index](../README.md)
