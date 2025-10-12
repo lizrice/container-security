@@ -1,3 +1,13 @@
 _site/
 Gemfile
 Gemfile.lock
+chapter4/alpine/alpine.tar.gz
+chapter6/not-sensitive.tar
+chapter6/not-sensitive/** 
+chapter6/sensitive.tar
+chapter6/sensitive/**
+chapter9/alpine-bundle/**
+chapter9/alpine/**
+chapter9/oras/**
+chapter2/mysleep
+chapter2/setuid/setuid-sh
