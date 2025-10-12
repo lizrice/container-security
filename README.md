@@ -1,8 +1,12 @@
 # Container Security
 
-* [Read on O'Reilly](https://learning.oreilly.com/library/view/container-security/9781492056690/)
-* Support independent bookshops by ordering from [Bookshop.org](https://uk.bookshop.org/a/4184/9781492056706)
-* Or order from your local bookshop using ISBN 9781492056706 
+* Read on O'Reilly
+  * **New!** [Second edition](https://learning.oreilly.com/library/view/container-security-2nd/9798341627697/)
+  * [First edition](https://learning.oreilly.com/library/view/container-security/9781492056690/)
+* Support independent bookshops by ordering from [Bookshop.org](https://bookshop.org/p/books/container-security-fundamental-technology-concepts-that-protect-cloud-native-applications-liz-rice/011577f647ffe30f?ean=9798341627703&next=t)
+* Or order from your local bookshop using ISBN
+  * Second edition: ISBN 9798341627673
+  * First edition: ISBN 9781492056706 
 * [Buy from Amazon](https://amzn.to/2Rj2on3)
 
 ## Table of Contents
